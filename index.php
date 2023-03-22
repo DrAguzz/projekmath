@@ -67,3 +67,5 @@
     </div>
 </body>
 </html>
+
+<!-- how to move to another location using javascript ?      -->
